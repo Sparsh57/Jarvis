@@ -31,7 +31,7 @@ Jarvis is a Python-based virtual assistant that performs various tasks using voi
 # Dependencies:
 Additional Python packages: playsound, pyttsx3, pyaudio, pyperclip, pyautogui, requests, wikipedia, pyjokes, googlesearch-python, keyboard, selenium, pandas, BeautifulSoup, pytesseract, pywin32, numpy, flask, speech_recognition, watson-developer-cloud, sounddevice, ibm-watson, keyboard, geopy, pytube, gtts, datetime, datefinder, pyttsx3.
 
-Note: Ensure you have the required API keys and credentials for services like Watson Speech to Text and News API.
+Note: Ensure you have the required API keys and credentials for services like Watson Speech to Text, News API and Rapid Api.
 
 # Contributing:
 Contributions are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
