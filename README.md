@@ -1,6 +1,6 @@
 # Jarvis
 # Description 
-Jarvis is a Python-based virtual assistant that performs various tasks using voice commands. It leverages speech recognition, natural language processing, and external APIs to provide functionalities like setting timers, alarms, weather forecasts, news updates, and more. Jarvis is also capable of answering questions and engaging in conversations.
+Jarvis, an advanced voice assistant, integrates Natural Language Processing (NLP), Speech Recognition, and Web Automation. Leveraging Multiprocessing, it executes parallel tasks such as timers and alarms. This project showcases adept File Manipulation, API Integration for real-time data, and incorporates Music Recommendation Systems. Utilizing Text-to-Speech (TTS) and Web Scraping, it provides dynamic responses, demonstrating versatility in data processing and human-computer interaction.
 
 # Features:
 •	Encyclopedia Anything<br>
